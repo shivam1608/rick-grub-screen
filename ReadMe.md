@@ -2,6 +2,14 @@
 
 A custom GRUB2 bootloader theme featuring Rick and Morty styling with terminal fonts and custom icons.
 
+<details>
+  <summary>Click to view Preview</summary>
+
+  ![preview](https://github.com/user-attachments/assets/89514087-41a8-434a-9808-583549ab6b26)
+  ![preview2](https://github.com/user-attachments/assets/6decf0e5-e199-4b41-a9f7-dad30aacd998)
+
+</details>
+
 ## Installation
 
 ```
